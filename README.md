@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there, I'm Vinícius!👋
+### Brazilian, 20 years
+### I'm Computer Science student
+
 
 <!--
 **viniciusIrikawa/viniciusirikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
