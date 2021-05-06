@@ -12,7 +12,7 @@
 ---
 Some tools <br>
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
 ---
 ### Statistics
