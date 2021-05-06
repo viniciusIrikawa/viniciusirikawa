@@ -10,6 +10,11 @@
 <img style="max-width: 100%;" width="30px" height="30px" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></img>
 <img style="max-width: 100%;" width="30px" height="30px" alt="Wordpress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"></img>
 ---
+Some tools <br>
+![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+---
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusIrikawa&show_icons=true&theme=radical)
 
