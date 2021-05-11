@@ -15,6 +15,8 @@ Some tools <br>
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
 ---
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_irikawa/) [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vinícius-irikawa)
+---
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusIrikawa&show_icons=true&theme=radical)
 
