@@ -7,6 +7,7 @@
 <img style="max-width: 100%;" width="30px" height="30px" alt="HTML 5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
 <img style="max-width: 100%;" width="30px" height="30px" alt="CSS 3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 <img style="max-width: 100%;" width="30px" height="30px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
+<img style="max-width: 100%;" width="30px" height="30px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img style="max-width: 100%;" width="30px" height="30px" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 <img style="max-width: 100%;" width="30px" height="30px" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></img>
 <img style="max-width: 100%;" width="30px" height="30px" alt="Wordpress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"></img>
