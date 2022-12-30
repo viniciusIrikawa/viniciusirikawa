@@ -1,7 +1,6 @@
 # Hi, I'm Vinícius!
-### 💻🧑🏻‍💻Computer Science student &
-### 🟩🟨Brazilian &
-### 🧑🏻🎉21 years
+### 💻🧑🏻‍💻Computer Science student
+### 🟩🟨Brazilian 
 ---
 ### 🧑🏻‍💻 Skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react,nextjs,sass,tailwind,bootstrap,java,python,mysql&theme=light)](https://skills.thijs.gg)
