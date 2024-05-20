@@ -3,7 +3,7 @@
 ### 🟩🟨Brazilian 
 ---
 ### 🧑🏻‍💻 Skills
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,ts,react,redux,nextjs,sass,tailwind,bootstrap,nodejs,mysql,mongodb&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,react,redux,nextjs,tailwind,bootstrap,nodejs,mysql,mongodb)](https://skillicons.dev)
 
 ### 🔧 Some tools <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
