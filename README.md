@@ -1,5 +1,5 @@
 # Hi, I'm Vinícius!
-### 💻🧑🏻‍💻Computer Science student
+### 💻🧑🏻‍💻Web Developer
 ### 🟩🟨Brazilian 
 ---
 ### 🧑🏻‍💻 Skills
